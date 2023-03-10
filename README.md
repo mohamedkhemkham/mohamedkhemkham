@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohamedkhemkham
 - 👀 I’m interested in Machine and Deep learning 
-- 🌱 I’m currently learning in depth RNN
-- 💞️ I’m looking to collaborate on Deep learning projects 
+- 🌱 I’m currently learning Cyber-Security 
+- 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me :
 
 -----------
